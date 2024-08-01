@@ -105,6 +105,8 @@ iii. ctype_digit() - verifica números*/
 echo "<br>";
 echo "<br>";
 
+
+
 ?>
 <?php 
 /*8. Usando o operador ternário faça uma questão que leia uma idade e indique se é
